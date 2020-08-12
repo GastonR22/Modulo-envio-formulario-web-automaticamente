@@ -9,6 +9,8 @@ esta el formulario, los ingresa en los distintos campos y lo envía simulando se
 
 El formulario esta programado para que los datos enviados a traves de este se envíen a un mail para ser leídos, con la llegada de los mails podemos comprobar el correcto funcionamiento del modulo de automatización para el llenado y envío de formularios.
 
+Acá dejo el link de la pagina donde se encuentra el formulario: https://interiorismonallin.000webhostapp.com/contacto.html 
+
 Para ser ejecutado el programa necesitaremos un IDE(se ha usado netbeans para desarrollarlo) , ya que no cuenta con una ejecutable.
 
 Adjunto una captura de la llegada de los mails correctamente, un ejemplo de uno de los mails que se recibió y el Excel que estamos utilizando para enviar dichos datos.
